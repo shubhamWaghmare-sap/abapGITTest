@@ -1,0 +1,2 @@
+# abapGITTest
+abapGIT tests ADT
